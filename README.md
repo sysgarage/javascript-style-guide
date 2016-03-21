@@ -1,4 +1,4 @@
-# SysGarage JavaScript Style Guide() {
+# SysGarage JavaScript Style Guide
 
 *A mostly reasonable approach to JavaScript*
 
@@ -1706,5 +1706,3 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 **[⬆ back to top](#table-of-contents)**
-
-# };
